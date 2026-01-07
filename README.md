@@ -1,6 +1,6 @@
 # OpenDSKY
 
-[![IMAGE ALT TEXT HERE](https://fabcross.jp/news/2018/dmln53000006i503-img/dmln53000006i50t.jpg)](https://opendsky.backerkit.com)
+[![IMAGE ALT TEXT HERE](https://static.wixstatic.com/media/c1d019_91f96b782cd44160bdc7e31f13f49be3~mv2.png/v1/crop/x_0,y_1,w_2046,h_2046/fill/w_128,h_128,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/306752404_495292852605350_60617690933553.png)
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/I6qBGJz7ALo/0.jpg)](http://www.youtube.com/watch?v=I6qBGJz7ALo)
 
